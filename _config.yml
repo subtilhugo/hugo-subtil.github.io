@@ -84,10 +84,10 @@ author:
   avatar           : "profile.jpg"
   bio              : "PhD student at Dauphine/Facebook"
   location         : "Paris, France"
-  employer         :
+  employer         : "Dauphine/Facebook"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wg2Z3H0AAAAJ&hl=en"
-  email            :
+  email            : "lmeunier95@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
