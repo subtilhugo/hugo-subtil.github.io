@@ -16,4 +16,4 @@ Research interests
 ======
 * Adversarial attacks from theoretic and practical point of views
 * Responsible Machine Learning
-* Fully-parallel derivative free optimization
+* Derivative free optimization
