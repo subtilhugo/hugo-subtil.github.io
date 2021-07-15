@@ -49,7 +49,8 @@ Rafael Pinot, Laurent Meunier, Alexandre Araujo, Hisashi Kashima, Florian Yger, 
 *Advances in Neural Information Processing Systems (NeurIPS 2019).*<br/>
 [paper](https://arxiv.org/abs/1902.01148)<br/>
 
-***Workshop papers***
+Workshop papers
+======
 
 
 **ROPUST: Improving Robustness through Fine-tuning with Photonic Processors and Synthetic Gradients**<br/>
@@ -64,8 +65,8 @@ Alexandre Araujo, Laurent Meunier, Rafael Pinot, Benjamin Negrevergne<br/>
 [paper](https://arxiv.org/abs/2012.02632)<br/>
 
 
-***Under review and preprint papers***
-
+Under review and preprint papers
+======
 
 **On the robustness of randomized classifiers to adversarial examples**<br/>
 Rafael Pinot<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Florian Yger, Cédric Gouy-Pailler, Yann Chevaleyre, Jamal Atif<br/>
