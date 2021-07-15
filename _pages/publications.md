@@ -1,16 +1,22 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
 author_profile: true
+redirect_from:
+  - /publications.html
 ---
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+**Mixed Nash Equilibria in the Adversarial Examples Game**    
+*International Conference on Machine Learning (ICML 2021).*   
+Laurent Meunier<sup>\*</sup>, Meyer Scetbon<sup>\*</sup>, Rafael Pinot, Jamal Atif, Yann Chevaleyre.  
+[paper](https://arxiv.org/pdf/2102.06905.pdf)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+**Equitable and Optimal Transport with Multiple Agents**     
+Meyer Scetbon<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Jamal Atif, Marco Cuturi.  
+*Artificial Intelligence and Statistics (AISTATS 2021).*   
+[paper](https://arxiv.org/abs/2006.07260)
