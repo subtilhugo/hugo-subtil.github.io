@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: "Talks and presentations"
-permalink: /talks/
+title: "Talks"
 author_profile: true
+redirect_from:
+  - /talks.html
 ---
 
 {% if site.talkmap_link == true %}
