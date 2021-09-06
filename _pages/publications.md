@@ -12,6 +12,7 @@ Conference papers
 **Asymptotic convergence rates for averaging strategies**<br/>
 Laurent Meunier, Iskander Legheraba, Yann Chevaleyre and Olivier Teytaud<br/>
 *Foundations Of Genetic Algorithms (FOGA 2021).*<br/>   
+[paper](https://arxiv.org/pdf/2108.04707.pdf)<br/>
 
 
 **Mixed Nash Equilibria in the Adversarial Examples Game** <br/>
@@ -49,6 +50,17 @@ Rafael Pinot, Laurent Meunier, Alexandre Araujo, Hisashi Kashima, Florian Yger, 
 *Advances in Neural Information Processing Systems (NeurIPS 2019).*<br/>
 [paper](https://arxiv.org/abs/1902.01148)<br/>
 
+
+Journal papers
+======
+
+
+**Black-Box Optimization Revisited: Improving Algorithm Selection Wizards through Massive Benchmarking**<br/>
+Laurent Meunier, Herilalaina Rakotoarison, Pak Kan Wong, Baptiste Roziere, Jeremy Rapin, Olivier Teytaud, Antoine Moreau, Carola Doerr<br/>
+*IEEE Transactions on Evolutionary Computation (2021)*<br/>
+[paper](https://arxiv.org/abs/2010.04542)<br/>
+
+
 Workshop papers
 ======
 
@@ -71,11 +83,6 @@ Under review and preprint papers
 **On the robustness of randomized classifiers to adversarial examples**<br/>
 Rafael Pinot<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Florian Yger, Cédric Gouy-Pailler, Yann Chevaleyre, Jamal Atif<br/>
 [paper](https://arxiv.org/abs/2102.10875)<br/>
-
-
-**Black-Box Optimization Revisited: Improving Algorithm Selection Wizards through Massive Benchmarking**<br/>
-Laurent Meunier, Herilalaina Rakotoarison, Pak Kan Wong, Baptiste Roziere, Jeremy Rapin, Olivier Teytaud, Antoine Moreau, Carola Doerr<br/>
-[paper](https://arxiv.org/abs/2010.04542)<br/>
 
 
 **Yet another but more efficient black-box adversarial attack: tiling and evolution strategies**<br/>
