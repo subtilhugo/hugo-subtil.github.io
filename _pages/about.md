@@ -14,6 +14,5 @@ I am Hugo Subtil, PhD student at CERNA in École des Mines Paris and CREST in É
 
 Research interests
 ======
-* European studies
-* Elites social Norm from gender to populism
-* Computational social scinces
+  **Topics:** Political Economy, European studies.
+  **Methods:** Text as Data, Econometrics, Machine Learning.
