@@ -6,85 +6,22 @@ redirect_from:
   - /publications.html
 ---
 
-Conference papers
+
+Working papers
 ======
 
-**Asymptotic convergence rates for averaging strategies**<br/>
-Laurent Meunier, Iskander Legheraba, Yann Chevaleyre and Olivier Teytaud<br/>
-*Foundations Of Genetic Algorithms (FOGA 2021).*<br/>   
-[paper](https://arxiv.org/pdf/2108.04707.pdf)<br/>
+**Social Learning of Political Elites,** _Peer effects in legislators' political speech._<br/>
+_Abstract:_ I investigate the influence of social interactions among Members of the European Parliament (MEPs) on the similarity of language they speak on the floor. Using the quasi- random allocation of seats in the European Parliament, I find that sitting adjacently increases language similarity among MEPs by 6\% within the same party and by 10\% across different groups. Within-party peer effects are equally influenced by convergence in the topics discussed and in the phrases used to address them. In contrast, between-party convergence is driven solely by a more similar manner of addressing topics. Peer effects are markedly stronger among pairs of women, new members and pairs from the same member state. Using seating variation in the European Parliament's venues (Brussels or Strasburg), I find persistent peer effects: MEPs who have previously sat together speak more similarly, even once they do not seat adjacently anymore. Lastly, I show that being surrounded by MEPs with diverse characteristics, such as gender, seniority in the EP or nationality, has varying effects on the degree of convergence towards their colleagues. In a survey of present MEPs, most respondents doubt the possibility of peer influence.
 
 
-**Mixed Nash Equilibria in the Adversarial Examples Game** <br/>
-Laurent Meunier<sup>\*</sup>, Meyer Scetbon<sup>\*</sup>, Rafael Pinot, Jamal Atif, Yann Chevaleyre<br/>
-*International Conference on Machine Learning (ICML 2021).*<br/>
-[paper](https://arxiv.org/pdf/2102.06905.pdf)<br/>
+**United in Diversity?** _Convergence in the European Political Language._<br/>
+_Abstract:_ I focus on the speeches given by members of the European Parliament during its plenary sessions and present the first evidence of convergence within European political groups at the expense of coherence between countries. The baseline analysis shows the development of increasingly cohesive ideological blocs in the Parliament, particularly among the more radical ideologies. Yet, this increasing unity within groups has come at the expense of coherence between them. Even though the east and west parts of the European Union converged in their ways of speaking, Western Europe is still four times more cohesive in itself, especially in the north, than Eastern members, which have barely done so since they joined the Union. I also show that in times of crisis, national preferences take precedence, as evidenced by increased polarization between the EU member states during the migrants crisis and Brexit. I argue that understanding the convergence of elite preferences in speeches is crucial to assess the prospects for a more politically integrated EU.
 
+**Discipline. . . and punish?**, _Libor manipulation as a Bayesian experiment._ <br/>
+_Joint with Guillaume Dupéret (Mines Paris) and Pierre Fleckinger (Mines Paris)._<br/>
+_Abstract:_ The dynamics of Libor manipulation is studied through the lens of a Bayesian model in which an agent learns the intensity of the supervision it receives. The supervisor can be active or inactive, and the agent chooses a manipulation intensity each period that yields a short-term payment. While an inactive supervisor allows the agent to cheat indefinitely, an active supervisor can discover the fraud, all the more easily that the extent of the manipulation is important. If the fraud is discovered, the agent is sanctioned and the game ends. In such a framework, the more patient the agent is, the more the learning motive pushes them to manipulate to discover its environment. This experimentation value implies that a sequence of myopic agents observing the actions of their predecessors generates less manipulation than a single agent living an infinite number of periods. We characterise the agent's optimal strategy, stopping probabilities and payoffs under a set of fairly general conditions, and discuss the Libor scandal in light of these results.
 
-**Equitable and Optimal Transport with Multiple Agents**<br/>
-Meyer Scetbon<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Jamal Atif, Marco Cuturi<br/>
-*Artificial Intelligence and Statistics (AISTATS 2021).*<br/>
-[paper](https://arxiv.org/abs/2006.07260)<br/>
-
-
-**Adversarial Attacks on Linear Contextual Bandits**<br/>
-Evrard Garcelon<sup>\*</sup>, Baptiste Roziere<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Jean Tarbouriech, Olivier Teytaud, Alessandro Lazaric, Matteo Pirotta<br/>
-*Advances in Neural Information Processing Systems (NeurIPS 2020).*<br/>
-[paper](https://arxiv.org/abs/2002.03839)<br/>
-
-
-**Variance Reduction for Better Sampling in Continuous Domains**<br/>
-Laurent Meunier, Carola Doerr, Jeremy Rapin, Olivier Teytaud<br/>
-*International Conference on Parallel Problem Solving from Nature (PPSN 2020).*<br/>
-[paper](https://arxiv.org/abs/2004.11687)<br/>
-
-
-**On averaging the best samples in evolutionary computation**<br/>
-Laurent Meunier, Yann Chevaleyre, Jeremy Rapin, Clément W Royer, Olivier Teytaud<br/>
-*International Conference on Parallel Problem Solving from Nature (PPSN 2020).*<br/>
-Best paper nominee. [paper](https://arxiv.org/abs/2004.11685)<br/>
-
-
-**Theoretical evidence for adversarial robustness through randomization**<br/>
-Rafael Pinot, Laurent Meunier, Alexandre Araujo, Hisashi Kashima, Florian Yger, Cédric Gouy-Pailler, Jamal Atif<br/>
-*Advances in Neural Information Processing Systems (NeurIPS 2019).*<br/>
-[paper](https://arxiv.org/abs/1902.01148)<br/>
-
-
-Journal papers
+Work in progress:
 ======
-
-
-**Black-Box Optimization Revisited: Improving Algorithm Selection Wizards through Massive Benchmarking**<br/>
-Laurent Meunier, Herilalaina Rakotoarison, Pak Kan Wong, Baptiste Roziere, Jeremy Rapin, Olivier Teytaud, Antoine Moreau, Carola Doerr<br/>
-*IEEE Transactions on Evolutionary Computation (2021)*<br/>
-[paper](https://arxiv.org/abs/2010.04542)<br/>
-
-
-Workshop papers
-======
-
-
-**ROPUST: Improving Robustness through Fine-tuning with Photonic Processors and Synthetic Gradients**<br/>
-Alessandro Cappelli, Ruben Ohana, Julien Launay, Laurent Meunier, Iacopo Poli<br/>
-*Workshop on Adversarial Machine Learning (ICML 2021)*<br/>
-[paper](https://openreview.net/forum?id=2cois7EhCKW)<br/>
-
-
-**Advocating for Multiple Defense Strategies against Adversarial Examples**<br/>
-Alexandre Araujo, Laurent Meunier, Rafael Pinot, Benjamin Negrevergne<br/>
-*Workshop on Machine Learning for CyberSecurity (MLCS@ECML-PKDD 2020)*<br/>
-[paper](https://arxiv.org/abs/2012.02632)<br/>
-
-
-Under review and preprint papers
-======
-
-**On the robustness of randomized classifiers to adversarial examples**<br/>
-Rafael Pinot<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Florian Yger, Cédric Gouy-Pailler, Yann Chevaleyre, Jamal Atif<br/>
-[paper](https://arxiv.org/abs/2102.10875)<br/>
-
-
-**Yet another but more efficient black-box adversarial attack: tiling and evolution strategies**<br/>
-Laurent Meunier, Jamal Atif, Olivier Teytaud<br/>
-[paper](https://arxiv.org/abs/1910.02244)<br/>
+**The emotion of populism in the European Political Language.**<br/>
+Joint with Vincent Verger (E\'cole Polytechnique).
