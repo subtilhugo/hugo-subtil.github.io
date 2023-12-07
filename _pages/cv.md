@@ -11,18 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics, Ecole polytechnique (2014-2017)
-* M.S. in Machine Learning, Master MVA, ENS Paris-Saclay (2017-2018)
-* Ph.D in Computer Science, Paris Dauphine University and Facebook AI Research (2019-...)
 
-Lecturer
-======
-* Project course (IASD master, Dauphine)
-* Optimization course (IASD master, Dauphine)
+  
+* BSc in Economics and Social Sciences, CPES, Université PSL (2017)
+* BSc in Applied Economics, Université Paris Dauphine PSL (2017)
+* BSc in Philosophy, Université Nanterre (2019)
+* M.S. in Economics, Master MIE, École polytechnique (2020)
+* Ph.D in Economics, Ecoles des Mines Paris and Ecole Polyetchnique (2020-...)
+
 
 Work experience
 ======
-* PhD studaent at Facebook AI Research (2019-...)
-* Intern at SG Paris/Dauphine (Apr.-Sep. 2018)
-* Intern at BNP Paribas London (Mar.-Aug. 2017)
-* Intern at SG Paris (Jun.-Aug. 2017)
+* PhD student at CREST and CERNA (2020-...)
+* Intern at Natixis Francfort (2019)
+* Intern at SER à Pékin (2019)
