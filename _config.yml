@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hugo SUBTIL"
+title                    : "Hugo Subtil"
 title_separator          : "-"
 name                     : &name "Hugo Subtil"
 description              : &description "PhD student at CREST/CERNA"
-url                      : https://hugosubtil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://subtilhugo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "subtilhugo/subtilhugo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
