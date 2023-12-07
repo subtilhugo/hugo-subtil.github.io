@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-I am Hugo Subtil, PhD student at CERNA in Ecoles des Mines Paris and CREST in ecoles Polytechniques  under the supervision of *Pr. Jamal Atif* (LAMSADE) and *Dr. Olivier Teytaud* (FAIR). I am gratuated from Ecole polytechnique in applied mathematics and Master MVA (Master Mathématiques Vision Apprentissage) at ENS Paris-Saclay.
+I am Hugo Subtil, PhD student at CERNA in École des Mines Paris and CREST in École polytechnique  under the supervision of *Pr. Pierre Fleckinger* (CERNA) and *Pr. Alessandro Riboni* (CREST). I am gratuated from École polytechnique from MIE (Master in Economics).
 
 
 Research interests
 ======
-* Adversarial attacks from theoretic and practical point of views
-* Responsible Machine Learning
-* Derivative free optimization
+* European studies
+* Elites social Norm from gender to populism
+* Computational social scinces
