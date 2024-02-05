@@ -23,6 +23,6 @@ Education
 
 Work experience
 ======
-* PhD student at CREST and CERNA (2020-...)
+* PhD student at CREST and CERNA (2020-2023)
 * Intern at Natixis Francfort (2019)
 * Intern at SER à Pékin (2019)
