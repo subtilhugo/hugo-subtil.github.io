@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hugo Subtil, PhD student at CERNA in École des Mines Paris and CREST in École polytechnique under the supervision of Pr. Pierre Fleckinger (CERNA) and Pr. Alessandro Riboni (CREST). I am graduated in Economics from École polytechnique (Master in Economics).<br/>
+I am a Postdoctoral Researcher in the Department of Political Science at the University of Zurich. I earned my PhD in Economic from CERNA in École des Mines Paris and CREST in École polytechnique under the supervision of Pr. Pierre Fleckinger (CERNA) and Pr. Alessandro Riboni (CREST).<br/>
 
 My research lies at the intersection of Political Economy, Political Science, and Computational Social Sciences, with a focus on European Studies. I am particularly interested in studying how to extract ideologies from large text corpora.<br/>
 
