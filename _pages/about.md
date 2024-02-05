@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher in the Department of Political Science at the University of Zurich. I earned my PhD in Economic from CERNA in École des Mines Paris and CREST in École polytechnique.<br/>
+I am a Postdoctoral Researcher in the [Department of Political Science](https://www.ipz.uzh.ch/en.html) at the University of Zurich. I earned my PhD in Economic from [CERNA](https://www.cerna.minesparis.psl.eu/Presentation/) in École des Mines Paris and [CREST](https://crest.science) in École polytechnique.<br/>
 
 My research lies at the intersection of Political Economy, Political Science, and Computational Social Sciences, with a focus on European Studies. I am particularly interested in studying how to extract ideologies from large text corpora.<br/>
 
