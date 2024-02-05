@@ -14,7 +14,7 @@ My research lies at the intersection of Political Economy, Political Science, an
 
 My empirical work draws upon machine learning algorithms and social media data to quantify two main effects: (1) the extent to which institutional design affects social norms and behaviors, and (2) how political ideologies have evolved over time.<br/>
 
-In parallel I am working for DemoSquare, an online platform for automating the monitoring and the analysis of legal and political data with machine learning.</div>
+In parallel I am working for [DemoSquare](https://demosquare.ch/landing/), an online platform for automating the monitoring and the analysis of legal and political data with machine learning.</div>
 
 
 Research interests
